@@ -11,8 +11,8 @@ function Header() {
     <div>
       <header>
         <div className="flex justify-between items-center gap-1 p-2 mr-5 mb-5 ml-5">
-          <h1 className="text-4xl font-extrabold text-slate-600 dark:text-white">
-            DevFinder
+          <h1 className="text-5xl font-extrabold text-slate-600 dark:text-white">
+            GitFound
           </h1>
           <button
             onClick={() => setdarkMode(!darkMode)}

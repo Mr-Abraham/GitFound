@@ -54,7 +54,7 @@ function Interface() {
           </p>
         </section>
       </div>
-      <div className="flex justify-between items-center py-3 px-10 mb-3 mt-2 bg-slate-700 rounded-xl text-white">
+      <div className="flex justify-between items-center py-3 px-10 mb-3 mt-5 bg-slate-700 rounded-xl text-white">
         <section>
           <h1 className="font-semibold text-2xl text-slate-100 text-center">
             Repos
